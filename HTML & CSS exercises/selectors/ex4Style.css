@@ -1,0 +1,19 @@
+p a {
+  color: green;
+
+}
+p a mark{ 
+    color: purple;
+}
+
+li a{
+  color: red;
+}
+
+ul li li {
+  color: blue;
+}
+
+ul li li li {
+  color: blue;
+}
